@@ -5,7 +5,8 @@
         "noImplicitAny": false,
         "sourceMap": false,
         "emitDecoratorMetadata": true,
-        "experimentalDecorators": true
+        "experimentalDecorators": true,
+        "compileOnSave": false
     },
     "exclude": [
         "node_modules",
